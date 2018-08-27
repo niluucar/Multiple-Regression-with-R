@@ -14,3 +14,5 @@ fib<- function(n){
 fib(7)
 
 #pull Pau pull
+
+1+1=2
