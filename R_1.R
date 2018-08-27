@@ -16,3 +16,5 @@ fib(7)
 #pull Pau pull
 
 library(readr)
+
+library(ggplot2)
